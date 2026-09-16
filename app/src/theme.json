@@ -36,6 +36,10 @@
     {
       "key": "habit",
       "label": "A habit to explore"
+    },
+    {
+      "key": "description",
+      "label": "Short description"
     }
   ],
   "followUpFields": [
